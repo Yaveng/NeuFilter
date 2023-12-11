@@ -6,6 +6,11 @@ This is the official implementation of **NeuFilter**, which is accepted by WSDM 
 
 We hope this code helps you well. If you use this code in your work, please cite our paper.
 
+```
+Neural Kalman Filtering for Robust Temporal Recommendation
+Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.
+The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
+```
 
 
 
