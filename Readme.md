@@ -15,7 +15,7 @@ The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
 Note that we provide three tasks, the codes of which are slightly different, but we have made them orthogonal to each other in order to help you quickly reproduce the results.
 
 
-#### How to run this code
+### How to run this code
 
 ##### Step 1: Check the compatibility of your running environment. Generally, different running environments will still have a chance to cause different experimental results though all random processes are fixed in the code. Our running environment is
 
@@ -84,5 +84,5 @@ We only provide the smallest dataset ```video``` for the ```item recommendation`
   python main.py --network wikipedia --gpu <your_gpu_index>
   ```
 
-#### Acknowledgement
+### Acknowledgement
 Our code is built upon [JODIE](https://github.com/claws-lab/jodie), we thank authors for their efforts.
