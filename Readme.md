@@ -83,3 +83,5 @@ We only provide the smallest dataset ```video``` for the ```item recommendation`
   mkdir saved_models  # If this directory exists, omit this code.
   python main.py --network wikipedia --gpu <your_gpu_index>
   ```
+
+Our code is built upon [JODIE](https://github.com/claws-lab/jodie), we thank authors for their efforts.
