@@ -84,4 +84,5 @@ We only provide the smallest dataset ```video``` for the ```item recommendation`
   python main.py --network wikipedia --gpu <your_gpu_index>
   ```
 
+#### Acknowledgement
 Our code is built upon [JODIE](https://github.com/claws-lab/jodie), we thank authors for their efforts.
